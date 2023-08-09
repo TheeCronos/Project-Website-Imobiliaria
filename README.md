@@ -13,7 +13,7 @@ Ao criar esse projeto, você vai poder colocar em prática os seguintes conceito
   <li>Seletores CSS</li>
 </ul>
 
-<h2>Link para o Website: https://theecronos.github.io/Project-Website-Imobiliaria/</h2>
+<h2>Link para o Website: https://devmedia-imobiliaria-santos.netlify.app</h2>
 
 <h2>Preview do Website</h2>
 
